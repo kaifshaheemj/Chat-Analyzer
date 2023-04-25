@@ -6,5 +6,5 @@ Students whom chatted mostanalysis
 Chats that containing details
 ![image](https://user-images.githubusercontent.com/107334941/234205997-c7c2761b-0a05-4e68-ac29-6c990743f59d.png)
 
-chat summary
+Summary of the Chats
 ![image](https://user-images.githubusercontent.com/107334941/234206291-dbb6f520-3efd-44c4-a384-72c49c03bbe4.png)
